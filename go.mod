@@ -1,3 +1,3 @@
-module gitlab.com/hyperfocus.systems/hyperfocus-utils
+module github.com/bakkerme/hyperfocus-utils
 
 go 1.15
